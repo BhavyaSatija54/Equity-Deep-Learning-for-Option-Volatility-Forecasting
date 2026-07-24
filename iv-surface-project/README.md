@@ -64,7 +64,3 @@ Python · TensorFlow/Keras · pandas · NumPy · scikit-learn · matplotlib
 ## Full write-up
 
 For the complete methodology, literature grounding, and detailed results/discussion, see [`docs/technical_report.pdf`](docs/technical_report.pdf).
-
-## License
-
-Add a license of your choice here (e.g. MIT). See [choosealicense.com](https://choosealicense.com/) for guidance.
