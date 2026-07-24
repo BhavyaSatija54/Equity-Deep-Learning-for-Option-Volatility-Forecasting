@@ -55,7 +55,6 @@ ConvLSTM also showed the strongest resilience during high-VIX regimes.
 2. Install dependencies: `pandas`, `numpy`, `tensorflow`, `scikit-learn`, `matplotlib`.
 3. Supply your own SPX option dataset (grid + features CSVs) in the expected format, or adapt the data-loading section to your source.
 
-> Note: this file was reconstructed from the project's full code listing, so some deeply nested indentation may need small fixes before it runs end-to-end — treat it as the complete reference implementation rather than a plug-and-play script.
 
 ## Tech stack
 
